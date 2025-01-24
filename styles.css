@@ -71,7 +71,7 @@
     width: 120%;
     height: 100%;
     pointer-events: none;
-    background: url('https://i.imgur.com/ZmAcUjW.png') repeat-x;
+    background: url('') repeat-x;
     animation: flyBats 8s linear infinite;
   }
   .hero .parallax {
@@ -80,7 +80,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('https://i.imgur.com/tYkU5Yn.png') no-repeat center;
+    background: url('') no-repeat center;
     background-size: cover;
     z-index: -1;
     animation: slowMove 15s infinite;
@@ -126,7 +126,7 @@
   /* Menu Section */
   .menu {
     padding: 100px 20px;
-    background: url('https://i.imgur.com/nph95lt.png') repeat;
+    background: url('') repeat;
     text-align: center;
   }
   .menu h2 {
